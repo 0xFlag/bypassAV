@@ -1,7 +1,7 @@
 #include "windows.h"
 #include "stdio.h"
 
-unsigned char shellcode[] = shellcode
+unsigned char shellcode[] = shellcode;
 
 void main()
 {
